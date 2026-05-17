@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Alireza Bigdelu
 
-<!--
-**alirezabigdelu/alirezabigdelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- 📚 Math Teacher
+- 🌍 Languages: Azerbaijani, Persian, English
+- 💻 Beginner Programmer
+- 🌱 Learning Open Source & Software Development
+- 🎯 Interested in Education Technology and Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezabigdelu&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alirezabigdelu&theme=tokyonight)
+
+---
+
+## 🌟 Goals
+
+- Contributing to Open Source
+- Building Educational Projects
+- Improving Programming Skills
+- Combining Mathematics with Technology
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/alirezabigdelu
+
+---
+
+⭐️ From [alirezabigdelu](https://github.com/alirezabigdelu)
